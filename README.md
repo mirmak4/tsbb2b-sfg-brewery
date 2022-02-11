@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/mirmak4/tsbb2b-sfg-brewery/tree/circleci-setup.svg?style=svg)](https://circleci.com/gh/mirmak4/tsbb2b-sfg-brewery/tree/circleci-setup)
+[![CircleCI](https://circleci.com/gh/mirmak4/tsbb2b-sfg-brewery/tree/master.svg?style=svg)](https://circleci.com/gh/mirmak4/tsbb2b-sfg-brewery/tree/master)
 # Testing Spring Boot B2G - SFG Brewery
 
 All source code examples in the repository are for my [Online Course - Testing Spring Beginner to Guru](https://www.udemy.com/testing-spring-boot-beginner-to-guru/?couponCode=GITHUB_REPO)
