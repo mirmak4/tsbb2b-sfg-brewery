@@ -168,3 +168,4 @@ nb-configuration.xml
 #.mvn/wrapper/maven-wrapper.properties
 #.mvn/wrapper/maven-wrapper.jar
 !.mvn/
+/nbproject/
